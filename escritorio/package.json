@@ -1,0 +1,14 @@
+{
+  "name": "climapp",
+  "version": "1.0.0",
+  "description": "Widget de escritorio del clima para Coronel",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Juan Mora",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}

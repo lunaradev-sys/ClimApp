@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clima Coronel</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+  <video id="fondo" autoplay muted loop playsinline></video>
+  <div id="velo"></div>
+  <div class="barra-titulo"></div>
+  
+  <div class="app">
+
+    <section class="columna">
+    <header class="hero">
+      <h1>Coronel</h1>
+      <p id="estado">cargando…</p>
+
+        <div class="ahora">
+          <span id="icono-ahora" class="icono-grande">·</span>
+          <div>
+            <p id="temp-ahora" class="temp-grande">--°</p>
+            <p id="cond-ahora" class="cond">—</p>
+          </div>
+        </div>
+
+        <p id="extra-ahora" class="extra"></p>
+      </header>
+
+      <section class="lista" id="dias"></section>
+    </section>
+
+  <script src="historico.js"></script>    
+
+    <div class="derecha">
+      <aside class="detalle" id="detalle"></aside>
+      <section class="historico" id="historico"></section>
+    </div>
+  </div>
+
+  <div id="tip" class="tip"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

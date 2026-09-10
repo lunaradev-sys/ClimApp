@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+
+# Node
+node_modules/
+
+# Datos generados
+clima.db
+log.txt
+widget/historico.js
+
+# Videos de fondo (pesan y no son míos para redistribuir)
+widget/fondos/*.mp4
