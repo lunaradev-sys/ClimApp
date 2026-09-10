@@ -2,8 +2,6 @@
 
 <img src="capturas/logo.png" alt="ClimApp" width="200">
 
-# ClimApp
-
 **Pronóstico meteorológico local que no solo predice: mide qué tan bien le achunta.**
 
 Una app de escritorio para Coronel, Chile, que consulta varios modelos meteorológicos,
