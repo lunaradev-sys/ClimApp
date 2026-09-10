@@ -212,7 +212,7 @@ MIT — ver [LICENSE](LICENSE).
 <div align="center">
 <br>
 
-<img src="capturas/logoLunara.png" alt="LunaraDV" width="110">
+<img src="capturas/logoLunaradv.png" alt="LunaraDV" width="110">
 
 **[LunaraDV](https://github.com/lunaradev-sys)** · Coronel, Chile
 
